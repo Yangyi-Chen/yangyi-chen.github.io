@@ -23,7 +23,7 @@ layout: default
 
 
 # Bio
-I'm a second-year CS Ph.D. student at UIUC, advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). 
+I'm a second-year CS Ph.D. student at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/).
 The long-term goal of my research is to build aligned and interactive AI systems to address challenges that remain unresolved even for human capabilities. To achieve this goal, my current research primarily concentrates on multimodal and large language models, aiming to establish fundamental approaches to address the following challenges:
 - **Alignment**: How to train AI systems to follow human intents and values?
 - **Interaction**: How to train AI systems to effectively interact with external entities (e.g., tools, humans) in the environment to facilitate the acquisition of information and language feedback?
