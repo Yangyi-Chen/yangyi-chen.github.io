@@ -42,7 +42,9 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 
 # Selected Publications 
-[[Full Publications](./publications.html)]
+[[Full Publications](./publications.html)] 
+
+**<sup>\*</sup>  indicates equal contribution**
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **Arxiv**
 
 - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/> **ICLR 2024**
