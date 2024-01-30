@@ -1,26 +1,22 @@
 ---
 layout: default
 ---
-[[Publication](./publications.html)]
-
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=5e9tBtQAAAAJ&view_op=list_works&gmla=AJsN-F6ieV5-6P_WzCdbvRYvxWSI33-VELtb0CU6B5dRbXHRE5PhOLn2bmG_5XkhAUdOEgKxiZd864yv2IVcuooJbWq6x7N7lL1nm_vxeK_QPHLncFhdjSA)]&emsp;[[Twitter](https://twitter.com/YangyiChen6666)]&emsp;[[Github](https://github.com/Yangyi-Chen)]
 
 
 
-<!-- google-site-verification: google839c7dfb26c92343.html -->
-# News
-[2023.10]. 2 papers accepted to EMNLP 2023.
-
-[2023.9]. 1 paper accepted to NeurIPS 2023 D&B Track.
-
-[2023.8]. 1 paper accepted to TACL.
+<!-- google-site-verification: google839c7dfb26c92343.html [2023.8]. 1 paper accepted to TACL.
 
 [2023.7]. Receive the outstanding reviewer award for ACL 2023.
 
-[2023.5]. Start my summer internship at SRI International (NJ). 
+[2023.5]. Start my summer internship at SRI International (NJ). [2023.5]. 4 papers accepted to ACL 2023 (3 findings).-->
+# News
+[2024.1]. 2 papers accepted to ICLR 2024.
 
-[2023.5]. 4 papers accepted to ACL 2023 (3 findings).
+[2023.10]. 2 papers accepted to EMNLP 2023.
+
+[2023.9]. 1 paper accepted to NeurIPS 2023 D&B Track.
 
 [2022]. ......
 
@@ -28,25 +24,36 @@ layout: default
 
 # Bio
 I'm a second-year CS Ph.D. student at UIUC, advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). 
-The long-term goal of my research is to build AI systems capable of effectively interacting with external entities (e.g., tools, humans) in the environment to address challenges that remain unresolved even for human capabilities.
-
-To achieve this goal, my current research primarily concentrates on multimodal and large language models, aiming to establish fundamental approaches to address the following challenges:
-- **Alignment**: How can we train AI systems to follow human intents?
-- **Interaction**: How can we train AI systems to effectively interact with external entities in the environment to facilitate the acquisition of information and dynamic planning?
-- **Evaluation**: How can we evaluate AI systems in tasks where they surpass the capabilities of non-expert human counterparts?
+The long-term goal of my research is to build aligned and interactive AI systems to address challenges that remain unresolved even for human capabilities. To achieve this goal, my current research primarily concentrates on multimodal and large language models, aiming to establish fundamental approaches to address the following challenges:
+- **Alignment**: How to train AI systems to follow human intents and values?
+- **Interaction**: How to train AI systems to effectively interact with external entities (e.g., tools, humans) in the environment to facilitate the acquisition of information and language feedback?
+- **Supervision**: How to train and evaluate AI systems that surpass the capabilities of human counterparts?
 
 
 
 
 
-In my undergraduate years, I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), working on trustworthy NLP. 
-In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
+In my undergraduate years, I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
 
 
 
 I'm excited about the discussion and collaboration! Feel free to drop me an email if you are interested or have questions about my work.
 
 
+
+# Selected Publications 
+[[Full Publications](./publications.html)]
+- **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **Arxiv**
+
+- **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/> **ICLR 2024**
+
+- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **Arxiv**
+
+- **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
+
+- **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP** [[paper](https://arxiv.org/abs/2210.10683)] <br/> **Yangyi Chen<sup>\*</sup>**, Hongcheng Gao<sup>\*</sup>, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun.  <br/> **EMNLP 2022**
+
+- **Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger** [[paper](https://arxiv.org/abs/2105.12400)] <br/>  Fanchao Qi<sup>\*</sup>, Mukai Li<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, Maosong Sun.  <br/>  **ACL 2021**
 
 
 
@@ -59,7 +66,9 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 - SRI International@New Jersey, Research Intern; May-Aug 2023; Hosted by Dr. [Karan Sikka](https://www.ksikka.com/), Dr. [Michael Cogswell](http://mcogswell.io/), and Dr. [Ajay Divakaran](https://www.sri.com/bios/ajay-divakaran/).
 
 # Reviewer
-**2023**: ICLR, EMNLP, EMNLP Industry Track, NeurIPS, NeurIPS D&B Track, ARR (Feb, Apr, Jun, Aug, Oct), ACL, IEEE T-IFS 
+**2024**: ICML
+
+**2023**: ICLR, EMNLP, EMNLP Industry Track, NeurIPS, NeurIPS D&B Track, ARR (Feb, Apr, Jun, Aug, Oct, Dec), ACL, IEEE T-IFS 
 
 **2022**: NeurIPS D&B Track, EMNLP, ARR (Dec)
 
