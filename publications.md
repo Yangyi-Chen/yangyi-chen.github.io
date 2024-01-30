@@ -18,11 +18,14 @@ layout: default
 
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/>
 
-- **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback** [[paper](https://arxiv.org/abs/2309.10691)] <br/> Xingyao Wang<sup>\*</sup>, Zihan Wang<sup>\*</sup>, Jiateng Liu, **Yangyi Chen**, Lifan Yuan, Hao Peng, Heng Ji. <br/>
 
-- **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/>
 
 # Conference & Journal Paper
+## 2024
+- **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback** [[paper](https://arxiv.org/abs/2309.10691)] <br/> Xingyao Wang<sup>\*</sup>, Zihan Wang<sup>\*</sup>, Jiateng Liu, **Yangyi Chen**, Lifan Yuan, Hao Peng, Heng Ji. <br/> **ICLR**
+
+- **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/> **ICLR**
+
 
 ## 2023 
 - **ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation** [[paper]()] <br/> **Yangyi Chen**, Xingyao Wang, Manling Li, Derek Hoiem, Heng Ji. <br/> **EMNLP** (Oral)
