@@ -10,6 +10,8 @@ layout: default
 
 
 # Arxiv Preprint
+- **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/>
+
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/>
 
 - **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions** [[paper](https://arxiv.org/abs/2311.09677)] <br/> Hanning Zhang<sup>\*</sup>, Shizhe Diao<sup>\*</sup>, Yong Lin<sup>\*</sup>, Yi R. Fung, Qing Lian, Xingyao Wang, **Yangyi Chen**, Heng Ji, Tong Zhang. <br/>
