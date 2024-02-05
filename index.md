@@ -45,6 +45,9 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 [[Full Publications](./publications.html)] 
 
 **<sup>\*</sup>  indicates equal contribution**
+
+- **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **Arxiv**
+
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **Arxiv**
 
 - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/> **ICLR 2024**
@@ -55,7 +58,7 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 - **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP** [[paper](https://arxiv.org/abs/2210.10683)] <br/> **Yangyi Chen<sup>\*</sup>**, Hongcheng Gao<sup>\*</sup>, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun.  <br/> **EMNLP 2022**
 
-- **Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger** [[paper](https://arxiv.org/abs/2105.12400)] <br/>  Fanchao Qi<sup>\*</sup>, Mukai Li<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, Maosong Sun.  <br/>  **ACL 2021**
+
 
 
 
