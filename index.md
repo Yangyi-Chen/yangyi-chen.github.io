@@ -72,7 +72,11 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 # Experience
 - SRI International@New Jersey, Research Intern; May-Aug 2023; Hosted by Dr. [Karan Sikka](https://www.ksikka.com/), Dr. [Michael Cogswell](http://mcogswell.io/), and Dr. [Ajay Divakaran](https://www.sri.com/bios/ajay-divakaran/).
 
-# Reviewer
+# Service
+## Area Chair/Action Editor
+**2024**: ACL/ARR (Feb)
+
+## Reviewer
 **2024**: COLM, ICML
 
 **2023**: ICLR, EMNLP, EMNLP Industry Track, NeurIPS, NeurIPS D&B Track, ARR (Feb, Apr, Jun, Aug, Oct, Dec), ACL, IEEE T-IFS 
