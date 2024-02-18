@@ -16,7 +16,7 @@ layout: default
 
 - **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions** [[paper](https://arxiv.org/abs/2311.09677)] <br/> Hanning Zhang<sup>\*</sup>, Shizhe Diao<sup>\*</sup>, Yong Lin<sup>\*</sup>, Yi R. Fung, Qing Lian, Xingyao Wang, **Yangyi Chen**, Heng Ji, Tong Zhang. <br/>
 
-- **Examining LLMs’ Uncertainty Expression towards Questions outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng. <br/>
+- **Examining LLMs’ Uncertainty Expression Towards Questions Outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng. <br/>
 
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/>
 
