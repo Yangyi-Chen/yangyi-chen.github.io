@@ -79,7 +79,7 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 ## Reviewer
 **2024**: COLM, ICML
 
-**2023**: ICLR, EMNLP, EMNLP Industry Track, NeurIPS, NeurIPS D&B Track, ARR (Feb, Apr, Jun, Aug, Oct, Dec), ACL, IEEE T-IFS 
+**2023**: ICLR, EMNLP, EMNLP Industry Track, NeurIPS, NeurIPS D&B Track, ARR (Feb, Apr, Jun, Aug, Oct, Dec), ACL (**Outstanding Award**), IEEE T-IFS 
 
 **2022**: NeurIPS D&B Track, EMNLP, ARR (Dec)
 
