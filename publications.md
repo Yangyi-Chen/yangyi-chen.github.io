@@ -30,13 +30,13 @@ layout: default
 
 
 ## 2023 
-- **ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation** [[paper]()] <br/> **Yangyi Chen**, Xingyao Wang, Manling Li, Derek Hoiem, Heng Ji. <br/> **EMNLP** (Oral)
+- **ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation** [[paper](https://arxiv.org/abs/2311.13258)] <br/> **Yangyi Chen**, Xingyao Wang, Manling Li, Derek Hoiem, Heng Ji. <br/> **EMNLP** (Oral)
 
-- **Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT** [[paper]()] <br/> Biru Zhu, Lifan Yuan, Ganqu Cui, **Yangyi Chen**, Chong Fu, Bingxiang He, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu. <br/> **EMNLP** (Short)
+- **Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT** [[paper](https://aclanthology.org/2023.emnlp-main.463.pdf)] <br/> Biru Zhu, Lifan Yuan, Ganqu Cui, **Yangyi Chen**, Chong Fu, Bingxiang He, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu. <br/> **EMNLP** (Short)
 
 - **Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations** [[paper](http://arxiv.org/abs/2306.04618)]  <br/> Lifan Yuan, **Yangyi Chen**, Ganqu Cui, Hongcheng Gao, Fangyuan Zou, Xingyi Cheng, Heng Ji, Zhiyuan Liu, Maosong Sun. <br/> **NeurIPS** (Dataset and Benchmark Track)
 
-- **Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training** [[paper]()] <br/> Biru Zhu<sup>\*</sup>, Ganqu Cui<sup>\*</sup>, **Yangyi Chen**, Yujia Qin, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu. <br/> **TACL** 
+- **Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training** [[paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00622/118798/Removing-Backdoors-in-Pre-trained-Models-by)] <br/> Biru Zhu<sup>\*</sup>, Ganqu Cui<sup>\*</sup>, **Yangyi Chen**, Yujia Qin, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu. <br/> **TACL** 
 
 - **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL** 
 
