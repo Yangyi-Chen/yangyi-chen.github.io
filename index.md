@@ -12,6 +12,8 @@ layout: default
 
 [2023.5]. Start my summer internship at SRI International (NJ). [2023.5]. 4 papers accepted to ACL 2023 (3 findings).-->
 # News
+[2024.3]. 2 papers accepted to NAACL 2024.
+
 [2024.2]. 1 paper accepted to CVPR 2024.
 
 [2024.2]. Will serve as an Area Chair/Action Editor for ACL/ARR.
@@ -54,7 +56,7 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/> **ICLR 2024**
 
-- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **Arxiv**
+- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **NAACL 2024**
 
 - **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
 
