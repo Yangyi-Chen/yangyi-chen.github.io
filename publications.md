@@ -21,7 +21,7 @@ layout: default
 ## 2024
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **NAACL**
 
-- **R-Tuning: Instructing Large Language Models to Say `I Don't Know'** [[paper](https://arxiv.org/abs/2311.09677)] <br/> Hanning Zhang<sup>\*</sup>, Shizhe Diao<sup>\*</sup>, Yong Lin<sup>\*</sup>, Yi R. Fung, Qing Lian, Xingyao Wang, **Yangyi Chen**, Heng Ji, Tong Zhang. <br/> **NAACL**
+- **R-Tuning: Instructing Large Language Models to Say ` I Don't Know'** [[paper](https://arxiv.org/abs/2311.09677)] <br/> Hanning Zhang<sup>\*</sup>, Shizhe Diao<sup>\*</sup>, Yong Lin<sup>\*</sup>, Yi R. Fung, Qing Lian, Xingyao Wang, **Yangyi Chen**, Heng Ji, Tong Zhang. <br/> **NAACL**
 
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR**
 
