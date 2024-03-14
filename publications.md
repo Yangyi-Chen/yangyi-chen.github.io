@@ -12,16 +12,17 @@ layout: default
 # Arxiv Preprint
 - **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/>
 
-- **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions** [[paper](https://arxiv.org/abs/2311.09677)] <br/> Hanning Zhang<sup>\*</sup>, Shizhe Diao<sup>\*</sup>, Yong Lin<sup>\*</sup>, Yi R. Fung, Qing Lian, Xingyao Wang, **Yangyi Chen**, Heng Ji, Tong Zhang. <br/>
-
 - **Examining LLMs’ Uncertainty Expression Towards Questions Outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng. <br/>
 
-- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/>
 
 
 
 # Conference & Journal Paper
 ## 2024
+- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **NAACL**
+
+- **R-Tuning: Instructing Large Language Models to Say `I Don't Know'** [[paper](https://arxiv.org/abs/2311.09677)] <br/> Hanning Zhang<sup>\*</sup>, Shizhe Diao<sup>\*</sup>, Yong Lin<sup>\*</sup>, Yi R. Fung, Qing Lian, Xingyao Wang, **Yangyi Chen**, Heng Ji, Tong Zhang. <br/> **NAACL**
+
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR**
 
 - **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback** [[paper](https://arxiv.org/abs/2309.10691)] <br/> Xingyao Wang<sup>\*</sup>, Zihan Wang<sup>\*</sup>, Jiateng Liu, **Yangyi Chen**, Lifan Yuan, Hao Peng, Heng Ji. <br/> **ICLR**
