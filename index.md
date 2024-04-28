@@ -76,7 +76,7 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 # Service
 ## Area Chair/Action Editor
-**2024**: ACL/ARR (Feb), EMNLP/ARR (Apr)
+**2024**: ACL/ARR (Feb), ARR (Apr)
 
 ## Reviewer
 **2024**: COLM, ICML
