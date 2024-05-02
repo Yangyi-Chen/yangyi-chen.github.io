@@ -12,6 +12,8 @@ layout: default
 
 [2023.5]. Start my summer internship at SRI International (NJ). [2023.5]. 4 papers accepted to ACL 2023 (3 findings).-->
 # News
+[2024.5]. 1 paper accepted to ICML 2024.
+
 [2024.3]. 2 papers accepted to NAACL 2024.
 
 [2024.2]. 1 paper accepted to CVPR 2024.
@@ -20,9 +22,7 @@ layout: default
 
 [2024.1]. 2 papers accepted to ICLR 2024.
 
-[2023.10]. 2 papers accepted to EMNLP 2023.
-
-[...]. ......
+[2023]. ......
 
 
 
@@ -50,7 +50,7 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 **<sup>\*</sup>  indicates equal contribution**
 
-- **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **Arxiv**
+- **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024**
 
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR 2024**
 
