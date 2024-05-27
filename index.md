@@ -72,6 +72,8 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 - Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
 # Experience
+- Amazon@Palo Alto, Applied Scientist Research Intern; May-Present 2024; Hosted by Dr. [Binxuan Huang](https://binxuan.github.io/).
+
 - SRI International@New Jersey, Research Intern; May-Aug 2023; Hosted by Dr. [Karan Sikka](https://www.ksikka.com/), Dr. [Michael Cogswell](http://mcogswell.io/), and Dr. [Ajay Divakaran](https://www.sri.com/bios/ajay-divakaran/).
 
 # Service
