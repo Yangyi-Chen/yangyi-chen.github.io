@@ -50,6 +50,9 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 **<sup>\*</sup>  indicates equal contribution**
 
+**<sup>\+</sup>  indicates corresponding author**
+- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper]()] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **Arxiv 2024**
+
 - **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024**
 
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR 2024**
@@ -60,7 +63,7 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 - **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
 
-- **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP** [[paper](https://arxiv.org/abs/2210.10683)] <br/> **Yangyi Chen<sup>\*</sup>**, Hongcheng Gao<sup>\*</sup>, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun.  <br/> **EMNLP 2022**
+<!-- - **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP** [[paper](https://arxiv.org/abs/2210.10683)] <br/> **Yangyi Chen<sup>\*</sup>**, Hongcheng Gao<sup>\*</sup>, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun.  <br/> **EMNLP 2022** -->
 
 
 
