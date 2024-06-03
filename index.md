@@ -50,7 +50,7 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 **<sup>\*</sup>  indicates equal contribution <sup>\+</sup>  indicates corresponding author**
 
-- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper]()] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **Arxiv 2024**
+- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **Arxiv 2024**
 
 - **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024**
 
