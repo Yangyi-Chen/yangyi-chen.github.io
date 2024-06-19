@@ -14,7 +14,7 @@ layout: default
 # News
 [2024.5]. 1 paper accepted to ICML 2024.
 
-[2024.3]. 2 papers accepted to NAACL 2024.
+[2024.3]. 2 papers accepted to NAACL 2024 (1 outstanding paper award).
 
 [2024.2]. 1 paper accepted to CVPR 2024.
 
