@@ -28,10 +28,22 @@ layout: default
 
 # Bio
 I'm a second-year CS Ph.D. student at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/).
-The long-term goal of my research is to build aligned and interactive AI systems to address challenges that remain unresolved even for human capabilities. To achieve this goal, my current research primarily concentrates on multimodal and large language models, aiming to establish fundamental approaches to address the following challenges:
+I'm interested in scalable approaches for developing large foundation models, including both pre-training and post-triaing stages. My research goal is to establish fundamental approaches to address the following challenges:
+- **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
+- **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing computational resources and data into sustained performance gains without hitting any bottleneck.
+- **Scalable Oversight**: The scalable post-training approaches that can continually improve the foundation models and align their objectives with human intents even as they exceed human capabilities.
+
+  
+
+
+
+
+
+
+<!--The long-term goal of my research is to build aligned and interactive AI systems to address challenges that remain unresolved even for human capabilities. To achieve this goal, my current research primarily concentrates on multimodal and large language models, aiming to establish fundamental approaches to address the following challenges:
 - **Alignment**: How to train AI systems to follow human intents and values?
 - **Interaction**: How to train AI systems to effectively interact with external entities (e.g., tools, humans) in the environment to facilitate the acquisition of information and language feedback?
-- **Supervision**: How to train and evaluate AI systems that surpass the capabilities of human counterparts?
+- **Supervision**: How to train and evaluate AI systems that surpass the capabilities of human counterparts?-->
 
 
 
@@ -53,15 +65,15 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 
 - **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **Arxiv 2024**
 
-- **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024**
-
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR 2024**
 
-- **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/> **ICLR 2024**
-
-<!--- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **NAACL 2024** -->
-
+<!--- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **NAACL 2024** 
+- **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024**
 - **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
+- **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/> **ICLR 2024**
+-->
+
+
 
 <!-- - **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP** [[paper](https://arxiv.org/abs/2210.10683)] <br/> **Yangyi Chen<sup>\*</sup>**, Hongcheng Gao<sup>\*</sup>, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun.  <br/> **EMNLP 2022** -->
 
