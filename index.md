@@ -28,7 +28,7 @@ layout: default
 
 # Bio
 I'm a second-year CS Ph.D. student at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/).
-I'm interested in scalable approaches for developing large foundation models, including both pre-training and post-triaing stages. My research goal is to establish fundamental approaches to address the following challenges:
+I'm interested in scalable approaches to developing large foundation models, including both pre-training and post-triaing stages. My research goal is to establish fundamental approaches to address the following challenges:
 - **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
 - **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing computes and data into sustained performance gains without hitting any bottleneck.
 - **Scalable Oversight**: The scalable post-training approaches that can continually improve the foundation models and align their objectives with human intents even as they exceed human capabilities.
