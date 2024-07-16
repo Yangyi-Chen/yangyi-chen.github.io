@@ -12,7 +12,7 @@ layout: default
 
 [2023.5]. Start my summer internship at SRI International (NJ). [2023.5]. 4 papers accepted to ACL 2023 (3 findings).-->
 # News
-[2024.6]. Serve as an Area Chair/Action Editor for ACL, EMNLP, ARR.
+[2024.6]. Serve as Area Chairs/Action Editors for ACL, EMNLP, ARR.
 
 [2024.5]. 1 paper accepted to ICML 2024.
 
