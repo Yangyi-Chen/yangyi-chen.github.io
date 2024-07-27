@@ -48,8 +48,6 @@ layout: default
 
 - **From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework** [[paper](https://arxiv.org/abs/2305.18503)] <br/> **Yangyi Chen<sup>\*</sup>**, Hongcheng Gao<sup>\*</sup>, Ganqu Cui<sup>\*</sup>, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, hui xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br/> **ACL** (Findings)
 
-- **Making Pre-trained Language Models both Task-solvers and Self-calibrators** [[paper](https://arxiv.org/abs/2307.11316)]  <br/> **Yangyi Chen**, Xingyao Wang, Heng Ji. <br/> **ACL** (Findings)
-
 - **Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework** [[paper](https://arxiv.org/abs/2110.15317)] <br/> Lifan Yuan<sup>\*</sup>, Yichi Zhang<sup>\*</sup>, **Yangyi Chen**, Wei Wei. <br/> **ACL** (Findings) 
 
 
