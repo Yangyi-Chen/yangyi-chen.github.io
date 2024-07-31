@@ -14,9 +14,6 @@ layout: default
 - **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/>
   
 - **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> 
-  
-- **Examining LLMs’ Uncertainty Expression Towards Questions Outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng. <br/>
-
 
 
 
