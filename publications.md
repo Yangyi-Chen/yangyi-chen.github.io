@@ -13,12 +13,14 @@ layout: default
 # Arxiv Preprint
 - **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/>
   
-- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> 
+
 
 
 
 # Conference & Journal Paper
 ## 2024
+- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **EMNLP** 
+  
 - **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML** 
 
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **NAACL**
