@@ -63,6 +63,8 @@ I'm excited about the discussion and collaboration! Feel free to drop me an emai
 [[Full Publications](./publications.html)] 
 
 **<sup>\*</sup>  indicates equal contribution <sup>\+</sup>  indicates corresponding author**
+- **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://openreview.net/forum?id=BDisxnHzRL)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> **OpenReview**
+
 - **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/> **Arxiv 2024**
 
 - **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **EMNLP 2024**
