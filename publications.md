@@ -11,7 +11,7 @@ layout: default
 
 
 # Preprint
-- **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://openreview.net/forum?id=BDisxnHzRL)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> 
+- **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> 
   
 - **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/>
   
