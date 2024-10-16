@@ -69,6 +69,8 @@ In my undergraduate years, I was a research intern at [THUNLP](https://nlp.csai.
 
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR 2024**
 
+- **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
+
 <!--- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **NAACL 2024** 
 - **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024**
 - **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
