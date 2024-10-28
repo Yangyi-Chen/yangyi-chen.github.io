@@ -13,7 +13,7 @@ layout: default
 # Preprint
 - **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> 
   
-- **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/>
+
   
 
 
@@ -21,6 +21,8 @@ layout: default
 
 # Conference & Journal Paper
 ## 2024
+- **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/> **TMLR**
+
 - **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **EMNLP** 
   
 - **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML** 
