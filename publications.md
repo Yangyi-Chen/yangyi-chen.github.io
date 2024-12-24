@@ -10,7 +10,7 @@ layout: default
 
 
 
-# Preprint
+# Recent Preprint
 - **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> 
   
 
