@@ -10,10 +10,10 @@ layout: default
 
 
 
-# Recent Preprint
+# Preprint
 - **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> 
   
-
+- **Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng <br/> 
   
 
 
