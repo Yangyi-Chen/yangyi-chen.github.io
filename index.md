@@ -53,7 +53,7 @@ I work on scalable AI models, aiming to establish fundamental approaches to addr
 
 
 
-In my undergraduate years, I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
+In my undergraduate years, I worked on AI safety. I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
 
 
 
