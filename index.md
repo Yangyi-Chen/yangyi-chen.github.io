@@ -93,7 +93,7 @@ In my undergraduate years, I was a research intern at [THUNLP](https://nlp.csai.
 - Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
 # Experience
-- Amazon@Palo Alto, Applied Scientist Research Intern; May-Aug 2024; Hosted by Dr. [Binxuan Huang](https://binxuan.github.io/).
+- Amazon@Palo Alto, Applied Scientist Research Intern; May-Aug 2024; Hosted by Dr. [Binxuan Huang](https://binxuan.github.io/), Dr. [Yifan Gao](https://yifan-gao.github.io/), and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). 
 
 - SRI International@New Jersey, Research Intern; May-Aug 2023; Hosted by Dr. [Karan Sikka](https://www.ksikka.com/), Dr. [Michael Cogswell](http://mcogswell.io/), and Dr. [Ajay Divakaran](https://www.sri.com/bios/ajay-divakaran/).
 
