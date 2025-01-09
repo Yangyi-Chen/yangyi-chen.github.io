@@ -114,7 +114,7 @@ In my undergraduate years, I worked on AI safety. I was a research intern at [TH
 
 
 # Personal
-When I was young (around 20), I enjoyed playing the piano and basketball. When I started doing research, my interests changed and I quickly fell in love with food and soap operas. But always, I am a big fan of milk tea!! 
+When I was young (around 20), I enjoyed playing the piano and **basketball**. When I started doing research, my interests changed and I quickly fell in love with all kinds of Chinese food and **mobile basketball games**. But always, I am a big fan of milk tea!! 
 
 
 <!-- I enjoy playing the piano and basketball in my free time. Recently, I've been enjoying suspense/thriller movies. Finally, I've always been a big fan of milk tea!!! -->
