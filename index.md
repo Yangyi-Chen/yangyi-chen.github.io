@@ -32,7 +32,7 @@ layout: default
 
 # Bio
 I'm a third-year CS Ph.D. student at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/).
-I work on scalable foundation models, aiming to establish fundamental approaches to address the following challenges:
+I work on **scalable foundation models**, aiming to establish fundamental approaches to address the following challenges:
 - **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
 - **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing compute and data into sustained performance gains without hitting any bottleneck.
 - **Scalable Oversight**: The scalable post-training approaches that can continually improve the foundation models and align their objectives with human intents even as they exceed human capabilities.
@@ -53,7 +53,7 @@ I work on scalable foundation models, aiming to establish fundamental approaches
 
 
 
-In my undergraduate years, I worked on AI safety. I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
+In my undergraduate years, I worked on **AI safety**. I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
 
 
 
@@ -93,16 +93,22 @@ In my undergraduate years, I worked on AI safety. I was a research intern at [TH
 - Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
 # Experience
+- Microsoft (Remote), Part-Time Research Intern; Feb-May (expected) 2024; Hosted by Dr. [Zhengyuan Yang](https://zyang-ur.github.io/). 
+
 - Amazon (Palo Alto), Applied Scientist Research Intern; May-Aug 2024; Hosted by Dr. [Binxuan Huang](https://binxuan.github.io/), Dr. [Yifan Gao](https://yifan-gao.github.io/), and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). Topic: Scaling Laws for LLMs.
 
 - SRI International (New Jersey), Research Intern; May-Aug 2023; Hosted by Dr. [Karan Sikka](https://www.ksikka.com/), Dr. [Michael Cogswell](http://mcogswell.io/), and Dr. [Ajay Divakaran](https://www.sri.com/bios/ajay-divakaran/). Topic: Scalable Supervision for Large Vision-Language Models. 
 
 # Service
 ## Area Chair/Action Editor
-**2024**: ACL/ARR (Feb), ARR (Apr), EMNLP/ARR (Jun)
+**2025**: ACL/ARR (Feb)
+
+**2024**: ACL/ARR (Feb), ARR (Apr, Aug, Oct), EMNLP/ARR (Jun)
 
 ## Reviewer
-**2024**: COLM, ICML
+**2025**: COLM, ICML 
+
+**2024**: COLM, ICML, ICLR
 
 **2023**: ICLR, EMNLP, EMNLP Industry Track, NeurIPS, NeurIPS D&B Track, ARR (Feb, Apr, Jun, Aug, Oct, Dec), ACL (**Outstanding Award**), IEEE T-IFS 
 
