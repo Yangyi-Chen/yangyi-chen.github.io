@@ -12,6 +12,8 @@ layout: default
 
 [2023.5]. Start my summer internship at SRI International (NJ). [2023.5]. 4 papers accepted to ACL 2023 (3 findings).-->
 # News
+[2025. 3]. 1 paper accepted to TMLR. 
+
 [2024.11]. 1 paper accepted to TMLR.
 
 [2024.9]. 1 paper accepted to EMNLP 2024.
@@ -63,7 +65,7 @@ In my undergraduate years, I worked on **AI safety**. I was a research intern at
 [[Full Publications](./publications.html)] 
 
 **<sup>\*</sup>  indicates equal contribution <sup>\+</sup>  indicates corresponding author**
-- **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> **Arxiv**
+- **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> **TMLR 2025**
 
 - **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/> **TMLR 2024**
 
