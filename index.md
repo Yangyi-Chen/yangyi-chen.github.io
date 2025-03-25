@@ -12,7 +12,7 @@ layout: default
 
 [2023.5]. Start my summer internship at SRI International (NJ). [2023.5]. 4 papers accepted to ACL 2023 (3 findings).-->
 # News
-[2025. 3]. 1 paper accepted to TMLR. 
+[2025.3]. 1 paper accepted to TMLR. 
 
 [2024.11]. 1 paper accepted to TMLR.
 
