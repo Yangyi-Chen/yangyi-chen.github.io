@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**I’m on the industry job market, seeking full-time research scientist positions starting around September 2025! Please reach out if you think my research is relevant!**
+
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=5e9tBtQAAAAJ&view_op=list_works&gmla=AJsN-F6ieV5-6P_WzCdbvRYvxWSI33-VELtb0CU6B5dRbXHRE5PhOLn2bmG_5XkhAUdOEgKxiZd864yv2IVcuooJbWq6x7N7lL1nm_vxeK_QPHLncFhdjSA)]&emsp;[[Twitter](https://twitter.com/YangyiChen6666)]&emsp;[[Github](https://github.com/Yangyi-Chen)]
 
 
