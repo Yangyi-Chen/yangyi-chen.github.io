@@ -53,7 +53,7 @@ layout: default
 
 - **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL** 
 
-- **From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework** [[paper](https://arxiv.org/abs/2305.18503)] <br/> **Yangyi Chen<sup>\*</sup>**, Hongcheng Gao<sup>\*</sup>, Ganqu Cui<sup>\*</sup>, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, hui xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br/> **ACL** (Findings)
+- **From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework** [[paper](https://arxiv.org/abs/2305.18503)] <br/> **Yangyi Chen<sup>\*</sup>**, Hongcheng Gao<sup>\*</sup>, Ganqu Cui<sup>\*</sup>, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, Hui Xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br/> **ACL** (Findings)
 
 - **Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework** [[paper](https://arxiv.org/abs/2110.15317)] <br/> Lifan Yuan<sup>\*</sup>, Yichi Zhang<sup>\*</sup>, **Yangyi Chen**, Wei Wei. <br/> **ACL** (Findings) 
 
