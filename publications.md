@@ -10,10 +10,9 @@ layout: default
 
 
 
-# Recent Preprint
-- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering** [[paper](https://arxiv.org/abs/2502.06994)] <br/> Xuehang Guo, Xingyao Wang, **Yangyi Chen**, Sha Li, Chi Han, Manling Li, Heng Ji <br/>
 
-<!--- **Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng <br/> -->
+
+<!-# Recent Preprint    -- **Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng <br/> -->
   
 
 
@@ -22,6 +21,8 @@ layout: default
 # Conference & Journal Paper
 
 ## 2025
+- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering** [[paper](https://arxiv.org/abs/2502.06994)] <br/> Xuehang Guo, Xingyao Wang, **Yangyi Chen**, Sha Li, Chi Han, Manling Li, Heng Ji <br/> **ICML**
+
 - **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/>  **TMLR**
 
 ## 2024
