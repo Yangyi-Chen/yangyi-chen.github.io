@@ -37,7 +37,7 @@ layout: default
 
 
 # Bio
-I'm a third-year CS Ph.D. Candidate at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/).
+I'm a third-year CS Ph.D. Candidate at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/) and Prof. [Tong Zhang](https://tongzhang-ml.org/).
 I work on **scalable foundation models**, aiming to establish fundamental approaches to address the following challenges:
 - **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
 - **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing compute and data into sustained performance gains without hitting any bottleneck.
@@ -65,10 +65,12 @@ In my undergraduate years, I worked on **AI safety**. I was a research intern at
 
 
 
-# Selected Publications 
+# Recent Featured Publications 
 [[Full Publications](./publications.html)] 
 
 **<sup>\*</sup>  indicates equal contribution <sup>\+</sup>  indicates corresponding author**
+- **Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/> **Arxiv 2025**
+
 - **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> **TMLR 2025**
 
 - **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/> **TMLR 2024**
@@ -77,9 +79,10 @@ In my undergraduate years, I worked on **AI safety**. I was a research intern at
 
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR 2024**
 
-- **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
+
 
 <!--- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[paper](https://arxiv.org/abs/2309.04461)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran. <br/> **NAACL 2024** 
+- **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
 - **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024**
 - **A Close Look into the Calibration of Pre-trained Language Models** [[paper](https://arxiv.org/abs/2211.00151)] <br/> **Yangyi Chen<sup>\*</sup>**, Lifan Yuan<sup>\*</sup>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br/> **ACL 2023** 
 - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets** [[paper](https://arxiv.org/abs/2309.17428)] <br/> Lifan Yuan<sup>\*</sup>, **Yangyi Chen**<sup>\*</sup>, Xingyao Wang, Yi R. Fung, Hao Peng, Heng Ji. <br/> **ICLR 2024**
