@@ -13,7 +13,9 @@ layout: default
 
 
 <!--- # Recent Preprint  **Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng <br/> -->
-  
+
+# Recent Preprint
+- **Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/>
 
 
 
