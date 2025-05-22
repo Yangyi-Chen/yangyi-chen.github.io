@@ -41,7 +41,7 @@ I'm a third-year CS Ph.D. Candidate at UIUC. I'm advised by Prof. [Heng Ji](http
 I work on **scalable foundation models**, aiming to establish fundamental approaches to address the following challenges:
 - **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
 - **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing compute and data into sustained performance gains without hitting any bottleneck.
-- **Scalable Oversight**: The scalable post-training approaches that can continually improve the foundation models and align their objectives with human intents even as they exceed human capabilities.
+- **Scalable Oversight**: The scalable reinforcement learning recipes that can elicit and advance the reasoning and agent capabilities in foundation models with minimal human supervision.
 
   
 
