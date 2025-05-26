@@ -106,7 +106,7 @@ In my undergraduate years, I worked on **AI safety**. I was a research intern at
 # Experience
 - NVIDIA (San Jose), Research Intern; May-Aug 2025; Hosted by Dr. [Wei Ping](https://wpingnet.github.io/).
 
-- Microsoft (Remote), Part-Time Research Intern; Feb-May (expected) 2025; Hosted by Dr. [Zhengyuan Yang](https://zyang-ur.github.io/). 
+- Microsoft (Remote), Part-Time Research Intern; Feb-May 2025; Hosted by Dr. [Zhengyuan Yang](https://zyang-ur.github.io/). 
 
 - Amazon (Palo Alto), Applied Scientist Research Intern; May-Aug 2024; Hosted by Dr. [Binxuan Huang](https://binxuan.github.io/), Dr. [Yifan Gao](https://yifan-gao.github.io/), and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). Topic: Scaling Laws for LLMs.
 
