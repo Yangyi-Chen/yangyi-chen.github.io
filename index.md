@@ -75,6 +75,8 @@ In my undergraduate years, I worked on **AI safety**. I was a research intern at
 
 - **A Single Transformer for Scalable Vision-Language Modeling** [[paper](https://arxiv.org/abs/2407.06438)] <br/> **Yangyi Chen<sup>\*</sup>**, Xingyao Wang<sup>\*</sup>, Hao Peng, Heng Ji <br/> **TMLR 2024**
 
+- **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024** 
+
 - **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **EMNLP 2024**
 
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR 2024**
@@ -102,7 +104,7 @@ In my undergraduate years, I worked on **AI safety**. I was a research intern at
 - Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
 # Experience
-- NVIDIA (San Jose), Research Intern; Summer 2025; TBD
+- NVIDIA (San Jose), Research Intern; May-Aug 2025; Hosted by Dr. [Wei Ping](https://wpingnet.github.io/).
 
 - Microsoft (Remote), Part-Time Research Intern; Feb-May (expected) 2025; Hosted by Dr. [Zhengyuan Yang](https://zyang-ur.github.io/). 
 
