@@ -37,7 +37,7 @@ layout: default
 
 
 # Bio
-I'm a third-year CS Ph.D. Candidate at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/) and Prof. [Tong Zhang](https://tongzhang-ml.org/).
+I'm a final-year CS Ph.D. Candidate at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/) and Prof. [Tong Zhang](https://tongzhang-ml.org/).
 I work on **scalable foundation models**, aiming to establish fundamental approaches to address the following challenges:
 - **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
 - **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing compute and data into sustained performance gains without hitting any bottleneck.
