@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[[Google Scholar](https://scholar.google.com/citations?hl=en&user=5e9tBtQAAAAJ&view_op=list_works&gmla=AJsN-F6ieV5-6P_WzCdbvRYvxWSI33-VELtb0CU6B5dRbXHRE5PhOLn2bmG_5XkhAUdOEgKxiZd864yv2IVcuooJbWq6x7N7lL1nm_vxeK_QPHLncFhdjSA)]&emsp;[[Twitter](https://twitter.com/YangyiChen6666)]&emsp;[[Github](https://github.com/Yangyi-Chen)]
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=5e9tBtQAAAAJ&view_op=list_works&gmla=AJsN-F6ieV5-6P_WzCdbvRYvxWSI33-VELtb0CU6B5dRbXHRE5PhOLn2bmG_5XkhAUdOEgKxiZd864yv2IVcuooJbWq6x7N7lL1nm_vxeK_QPHLncFhdjSA)]&emsp;[[Twitter](https://twitter.com/YangyiChen6666)]&emsp;[[Github](https://github.com/Yangyi-Chen)] &emsp; [[Email](yangyic@nvidia.com)]
 
 
 
@@ -49,7 +49,7 @@ I'm a research scientist at NVIDIA, and a final-year CS Ph.D. Candidate at UIUC,
 
 
 
-<!In my undergraduate years, I worked on **AI safety**. I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/).  I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/) and Prof. [Tong Zhang](https://tongzhang-ml.org/).
+<!--- In my undergraduate years, I worked on **AI safety**. I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/).  I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/) and Prof. [Tong Zhang](https://tongzhang-ml.org/).
 I work on **scalable foundation models**, aiming to establish fundamental approaches to address the following challenges:
 - **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
 - **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing compute and data into sustained performance gains without hitting any bottleneck.
@@ -57,7 +57,6 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 - **Alignment**: How to train AI systems to follow human intents and values?
 - **Interaction**: How to train AI systems to effectively interact with external entities (e.g., tools, humans) in the environment to facilitate the acquisition of information and language feedback?
 - **Supervision**: How to train and evaluate AI systems that surpass the capabilities of human counterparts?-->
-
 
 
 
