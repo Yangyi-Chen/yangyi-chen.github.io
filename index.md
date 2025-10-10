@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[[Google Scholar](https://scholar.google.com/citations?hl=en&user=5e9tBtQAAAAJ&view_op=list_works&gmla=AJsN-F6ieV5-6P_WzCdbvRYvxWSI33-VELtb0CU6B5dRbXHRE5PhOLn2bmG_5XkhAUdOEgKxiZd864yv2IVcuooJbWq6x7N7lL1nm_vxeK_QPHLncFhdjSA)]&emsp;[[Twitter](https://twitter.com/YangyiChen6666)]&emsp;[[Github](https://github.com/Yangyi-Chen)] &emsp; [[Email](yangyic@nvidia.com)]
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=5e9tBtQAAAAJ&view_op=list_works&gmla=AJsN-F6ieV5-6P_WzCdbvRYvxWSI33-VELtb0CU6B5dRbXHRE5PhOLn2bmG_5XkhAUdOEgKxiZd864yv2IVcuooJbWq6x7N7lL1nm_vxeK_QPHLncFhdjSA)]&emsp;[[Twitter](https://twitter.com/YangyiChen6666)]&emsp;[[Github](https://github.com/Yangyi-Chen)] 
 
 
 
