@@ -106,9 +106,9 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 - Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
 # Experience
-- NVIDIA (San Jose), Research Scientist; Oct 2025-Now;
+- NVIDIA (Remote), Research Scientist; Oct 2025-Now;
 
-- NVIDIA (San Jose), Research Intern; May-Oct 2025; Hosted by Dr. [Wei Ping](https://wpingnet.github.io/).
+- NVIDIA (Santa Clara), Research Intern; May-Oct 2025; Hosted by Dr. [Wei Ping](https://wpingnet.github.io/).
 
 - Microsoft (Remote), Part-Time Research Intern; Feb-May 2025; Hosted by Dr. [Zhengyuan Yang](https://zyang-ur.github.io/). 
 
