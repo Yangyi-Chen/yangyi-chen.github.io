@@ -2,7 +2,6 @@
 layout: default
 ---
 
-**I’m on the industry job market, seeking full-time research scientist positions starting around September 2025! Please reach out if you think my research is relevant!**
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=5e9tBtQAAAAJ&view_op=list_works&gmla=AJsN-F6ieV5-6P_WzCdbvRYvxWSI33-VELtb0CU6B5dRbXHRE5PhOLn2bmG_5XkhAUdOEgKxiZd864yv2IVcuooJbWq6x7N7lL1nm_vxeK_QPHLncFhdjSA)]&emsp;[[Twitter](https://twitter.com/YangyiChen6666)]&emsp;[[Github](https://github.com/Yangyi-Chen)]
 
@@ -14,6 +13,8 @@ layout: default
 
 [2023.5]. Start my summer internship at SRI International (NJ). [2023.5]. 4 papers accepted to ACL 2023 (3 findings).-->
 # News
+[2025.10]. Joined NVIDIA as a full-time Research Scientist.
+
 [2025.5]. 1 paper accepted to ICML.
 
 [2025.3]. 1 paper accepted to TMLR. 
@@ -37,11 +38,9 @@ layout: default
 
 
 # Bio
-I'm a final-year CS Ph.D. Candidate at UIUC. I'm advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/) and Prof. [Tong Zhang](https://tongzhang-ml.org/).
-I work on **scalable foundation models**, aiming to establish fundamental approaches to address the following challenges:
-- **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
-- **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing compute and data into sustained performance gains without hitting any bottleneck.
-- **Scalable Oversight**: The scalable reinforcement learning recipes that can elicit and advance the reasoning and agent capabilities in foundation models with minimal human supervision.
+I'm a research scientist at NVIDIA, and a final-year CS Ph.D. Candidate at UIUC, advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). At NVIDIA, I work on LLMs post-training and LLM-based coding agents.
+
+
 
   
 
@@ -50,7 +49,11 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 
 
 
-<!--The long-term goal of my research is to build aligned and interactive AI systems to address challenges that remain unresolved even for human capabilities. To achieve this goal, my current research primarily concentrates on multimodal and large language models, aiming to establish fundamental approaches to address the following challenges:
+<!In my undergraduate years, I worked on **AI safety**. I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/).  I also collaborate with Prof. [Hao Peng](https://haopeng-nlp.github.io/) and Prof. [Tong Zhang](https://tongzhang-ml.org/).
+I work on **scalable foundation models**, aiming to establish fundamental approaches to address the following challenges:
+- **Predictable Scaling**: The scaling laws that can reliably predict the development of foundation models.
+- **Scalable Modeling**: The model architectures and training recipes for multimodality that can transform increasing compute and data into sustained performance gains without hitting any bottleneck.
+- **Scalable Oversight**: The scalable reinforcement learning recipes that can elicit and advance the reasoning and agent capabilities in foundation models with minimal human supervision.--The long-term goal of my research is to build aligned and interactive AI systems to address challenges that remain unresolved even for human capabilities. To achieve this goal, my current research primarily concentrates on multimodal and large language models, aiming to establish fundamental approaches to address the following challenges:
 - **Alignment**: How to train AI systems to follow human intents and values?
 - **Interaction**: How to train AI systems to effectively interact with external entities (e.g., tools, humans) in the environment to facilitate the acquisition of information and language feedback?
 - **Supervision**: How to train and evaluate AI systems that surpass the capabilities of human counterparts?-->
@@ -59,7 +62,7 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 
 
 
-In my undergraduate years, I worked on **AI safety**. I was a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn) advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the early stages of my research, I worked closely with Dr. [Fanchao Qi](https://fanchao-qi.github.io/) and received great help from him. Also, I am delighted to work with Prof. [Wei Wei](https://www.eric-weiwei.com) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
+
 
 
 
@@ -104,7 +107,9 @@ In my undergraduate years, I worked on **AI safety**. I was a research intern at
 - Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
 # Experience
-- NVIDIA (San Jose), Research Intern; May-Aug 2025; Hosted by Dr. [Wei Ping](https://wpingnet.github.io/).
+- NVIDIA (San Jose), Research Scientist; Oct 2025-Now;
+
+- NVIDIA (San Jose), Research Intern; May-Oct 2025; Hosted by Dr. [Wei Ping](https://wpingnet.github.io/).
 
 - Microsoft (Remote), Part-Time Research Intern; Feb-May 2025; Hosted by Dr. [Zhengyuan Yang](https://zyang-ur.github.io/). 
 
