@@ -17,6 +17,7 @@ layout: default
 # Recent Preprint
 - **Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/>
 
+- **Perception-aware Policy Optimization for Multimodal Reasoning** [[paper](https://arxiv.org/abs/2507.06448)] <br/> Zhenhailong Wang<sup>\*</sup>, Xuehang Guo<sup>\*</sup>, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, **Yangyi Chen**, Ming Yan, Fei Huang, Heng Ji  <br/>
 
 
 
