@@ -28,7 +28,7 @@ layout: default
   
 
 # Experience / Education
-- NVIDIA, Research Scientist; Oct 2025-Present;
+- NVIDIA, Research Scientist; 2025-Present;
   
 - University of Illinois Urbana-Champaign, Ph.D. in Computer Science; 2022-Present
 
