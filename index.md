@@ -8,11 +8,7 @@ layout: default
 
 
 
-<!-- google-site-verification: google839c7dfb26c92343.html [2023.8]. 1 paper accepted to TACL.
-
-[2023.7]. Receive the outstanding reviewer award for ACL 2023.
-
-[2023.5]. Start my summer internship at SRI International (NJ). [2023.5]. 4 papers accepted to ACL 2023 (3 findings).-->
+<!--- 
 # News
 [2025.10]. Joined NVIDIA as a full-time Research Scientist.
 
@@ -20,30 +16,23 @@ layout: default
 
 [2025.3]. 1 paper accepted to TMLR. 
 
-[2024.11]. 1 paper accepted to TMLR.
-
-[2024.9]. 1 paper accepted to EMNLP 2024.
-
-[2024.6]. Serve as Area Chairs/Action Editors for ACL, EMNLP, ARR.
-
-[2024.5]. 1 paper accepted to ICML 2024.
-
-[2024.3]. 2 papers accepted to NAACL 2024 (1 outstanding paper).
-
-[2024.2]. 1 paper accepted to CVPR 2024.
-
-[2024.1]. 2 papers accepted to ICLR 2024.
-
-[2023]. ......
+[2024]. ......
+-->
 
 
 
-# Bio
-I'm a research scientist at NVIDIA, and a final-year CS Ph.D. Candidate at UIUC, advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). At NVIDIA, I work on LLMs post-training and LLM-based coding agents.
+**I'm a research scientist at NVIDIA, and a final-year CS Ph.D. Candidate at UIUC, advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). At NVIDIA, I work on LLMs post-training and LLM-based coding agents.**
 
 
 
   
+
+# Experience / Education
+- NVIDIA, Research Scientist; Oct 2025-Present;
+  
+- University of Illinois Urbana-Champaign, Ph.D. in Computer Science; 2022-Present
+
+- Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
 
 
@@ -68,10 +57,10 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 
 
 
-# Recent Featured Publications 
+# Recent Publications 
 [[Full Publications](./publications.html)] 
 
-**<sup>\*</sup>  indicates equal contribution <sup>\+</sup>  indicates corresponding author**
+**<sup>\*</sup>  indicates equal contribution**
 - **Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/> **Arxiv 2025**
 
 - **Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> **TMLR 2025**
@@ -80,9 +69,7 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 
 - **Executable Code Actions Elicit Better LLM Agents** [[paper](https://arxiv.org/abs/2402.01030)] <br/> Xingyao Wang, **Yangyi Chen**, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji <br/> **ICML 2024** 
 
-- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales** [[paper](https://arxiv.org/abs/2405.20974)] <br/> Tianyang Xu<sup>\*</sup>, Shujin Wu<sup>\*</sup>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, **Yangyi Chen<sup>\+</sup>**, Jing Gao<sup>\+</sup> <br/> **EMNLP 2024**
 
-- **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** [[paper](http://arxiv.org/abs/2311.10081)] <br/> **Yangyi Chen**, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran <br/> **CVPR 2024**
 
 
 
@@ -101,22 +88,22 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 
 
 
-# Education
-- University of Illinois Urbana-Champaign, Ph.D. in Computer Science; 2022-Present
 
-- Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
-# Experience
-- NVIDIA (Remote), Research Scientist; Oct 2025-Now;
 
+
+
+
+<!--
 - NVIDIA (Santa Clara), Research Intern; May-Oct 2025; Hosted by Dr. [Wei Ping](https://wpingnet.github.io/).
-
 - Microsoft (Remote), Part-Time Research Intern; Feb-May 2025; Hosted by Dr. [Zhengyuan Yang](https://zyang-ur.github.io/). 
 
 - Amazon (Palo Alto), Applied Scientist Research Intern; May-Aug 2024; Hosted by Dr. [Binxuan Huang](https://binxuan.github.io/), Dr. [Yifan Gao](https://yifan-gao.github.io/), and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). Topic: Scaling Laws for LLMs.
 
 - SRI International (New Jersey), Research Intern; May-Aug 2023; Hosted by Dr. [Karan Sikka](https://www.ksikka.com/), Dr. [Michael Cogswell](http://mcogswell.io/), and Dr. [Ajay Divakaran](https://www.sri.com/bios/ajay-divakaran/). Topic: Scalable Supervision for Large Vision-Language Models. 
 
+-->
+<!--
 # Service
 
 ## Area Chair/Action Editor
@@ -132,8 +119,9 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 **2023**: ICLR, EMNLP, EMNLP Industry Track, NeurIPS, NeurIPS D&B Track, ARR (Feb, Apr, Jun, Aug, Oct, Dec), ACL (**Outstanding Award**), IEEE T-IFS 
 
 **2022**: NeurIPS D&B Track, EMNLP, ARR (Dec)
+-->
 
-**Assistant**: AAAI 2022, ARR 2022 (Jan), EMNLP 2021, ARR 2021 (Oct, Nov) 
+
 <!-- **Reviewer**: NeurIPS 2023, ARR 2023 (Feb, Apr), ACL 2023, IEEE T-IFS, NeurIPS 2022, EMNLP 2022, ARR 2022 (Dec) My research goal is to develop general-purpose models that can follow human instructions to solve tasks in a zero- or few-shot manner. I identify two important directions towards this goal and focus my research on (1) How to effectively acquire knowledge from web-scale data? (2) How to elicit the knowledge stored in pre-trained models to perform downstream tasks? 2 papers accepted to EMNLP 2022.[2022.9]. 2 papers accepted to NeurIPS 2022 (1 Spotlight).[2022.8]. Start my PhD journey at UIUC!![2022.4]. 1 paper accepted to NAACL 2022 (findings).[2021.8]. 3 papers accepted to EMNLP 2021. [2021.5]. 2 papers accepted to ACL 2021 (1 findings).I work on multimodal and large language models, basically focusing on three high-level topics: - **Fundamental development**: How to effectively develop general-purpose pre-trained models that possess strong fundamental capabilities (e.g., reasoning)?- **Exploring and exploiting their extensive potential**: How to fully leverage the capabilities of models to address real-world challenges?- **In-depth analysis**: How to systematically evaluate and interpret the behaviors of models? -->
 
 
