@@ -10,6 +10,8 @@ layout: default
 
 <!--- 
 # News
+[2025.11]. Completed my Ph.D. final defense. 
+
 [2025.10]. Joined NVIDIA as a full-time Research Scientist.
 
 [2025.5]. 1 paper accepted to ICML.
@@ -22,7 +24,8 @@ layout: default
 
 **Contact: yangyic@NVIDIA.com**
 
-**I'm a research scientist at NVIDIA, and a final-year CS Ph.D. Candidate at UIUC, advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). At NVIDIA, I work on LLMs post-training and LLM-based coding agents.**
+**I'm a research scientist at NVIDIA. I received my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign (Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)).
+At NVIDIA, I work on LLMs post-training and LLM-based coding agents.**
 
 
 
@@ -32,7 +35,7 @@ layout: default
 # Experience / Education
 - NVIDIA, Research Scientist; 2025-Present
   
-- University of Illinois Urbana-Champaign, Ph.D. in Computer Science; 2022-Present
+- University of Illinois Urbana-Champaign, Ph.D. in Computer Science; 2022-2025
 
 - Huazhong University of Science and Technology, BS in Software Engineering;    2018-2022
 
