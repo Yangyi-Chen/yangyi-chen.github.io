@@ -24,8 +24,7 @@ layout: default
 
 **Contact: yangyic@NVIDIA.com**
 
-**I'm a research scientist at NVIDIA. I received my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign (Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)).
-At NVIDIA, I work on LLMs post-training and LLM-based coding agents.**
+**I'm a research scientist at NVIDIA, where I conduct research and develop infrastructure for LLMs post-training and LLM-based coding agents. I received my CS Ph.D. in UIUC (Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)).**
 
 
 
