@@ -19,11 +19,15 @@ layout: default
 
 - **Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/>
 
-- **Perception-aware Policy Optimization for Multimodal Reasoning** [[paper](https://arxiv.org/abs/2507.06448)] <br/> Zhenhailong Wang<sup>\*</sup>, Xuehang Guo<sup>\*</sup>, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, **Yangyi Chen**, Ming Yan, Fei Huang, Heng Ji  <br/>
-
 
 
 # Conference & Journal Paper
+
+## 2026
+
+- **Perception-aware Policy Optimization for Multimodal Reasoning** [[paper](https://arxiv.org/abs/2507.06448)] <br/> Zhenhailong Wang<sup>\*</sup>, Xuehang Guo<sup>\*</sup>, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, **Yangyi Chen**, Ming Yan, Fei Huang, Heng Ji  <br/> **ICLR**
+
+
 
 ## 2025
 - **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering** [[paper](https://arxiv.org/abs/2502.06994)] <br/> Xuehang Guo, Xingyao Wang, **Yangyi Chen**, Sha Li, Chi Han, Manling Li, Heng Ji <br/> **ICML**
