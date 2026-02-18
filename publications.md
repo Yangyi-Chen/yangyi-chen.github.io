@@ -14,16 +14,17 @@ layout: default
 
 <!--- # Recent Preprint  **Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge** [[paper](https://arxiv.org/abs/2311.09731)] <br/> Genglin Liu, Xingyao Wang, Lifan Yuan, **Yangyi Chen**, Hao Peng <br/> -->
 
-# Recent Preprint
-- **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** [[paper](https://arxiv.org/pdf/2512.13607)] <br/> Boxin Wang<sup>\*</sup>, Chankyu Lee<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Sheng-Chieh Lin<sup>\*</sup>, Wenliang Dai<sup>\*</sup>, Yang Chen<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> (ordered alphabetically by first name with equal technical contribution<sup>\*</sup>) <br/> 
-
-- **Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/>
 
 
 
-# Conference & Journal Paper
+
+
+# Conference & Journal Paper & Technical Report
 
 ## 2026
+- **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** [[paper](https://arxiv.org/pdf/2512.13607)] <br/> Boxin Wang<sup>\*</sup>, Chankyu Lee<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Sheng-Chieh Lin<sup>\*</sup>, Wenliang Dai<sup>\*</sup>, Yang Chen<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> (ordered alphabetically by first name with equal technical contribution<sup>\*</sup>) <br/> **Technical Report**
+
+- **Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/> **TMLR**
 
 - **Perception-aware Policy Optimization for Multimodal Reasoning** [[paper](https://arxiv.org/abs/2507.06448)] <br/> Zhenhailong Wang<sup>\*</sup>, Xuehang Guo<sup>\*</sup>, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, **Yangyi Chen**, Ming Yan, Fei Huang, Heng Ji  <br/> **ICLR**
 
