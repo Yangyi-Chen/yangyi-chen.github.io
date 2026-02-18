@@ -66,9 +66,9 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 
 **<sup>\*</sup>  indicates equal contribution**
 
-- **(LLMs RL Post-Training) Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** [[paper](https://arxiv.org/pdf/2512.13607)] <br/> Boxin Wang<sup>\*</sup>, Chankyu Lee<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Sheng-Chieh Lin<sup>\*</sup>, Wenliang Dai<sup>\*</sup>, Yang Chen<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> (ordered alphabetically by first name with equal technical contribution<sup>\*</sup>) <br/> **Arxiv 2025**
+- **(LLMs RL Post-Training) Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** [[paper](https://arxiv.org/pdf/2512.13607)] <br/> Boxin Wang<sup>\*</sup>, Chankyu Lee<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Sheng-Chieh Lin<sup>\*</sup>, Wenliang Dai<sup>\*</sup>, Yang Chen<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> (ordered alphabetically by first name with equal technical contribution<sup>\*</sup>) <br/> **Technical Report**
 
-- **(Vision-Language Pre-Training) Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/> **Arxiv 2025**
+- **(Vision-Language Pre-Training) Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/> **TMLR 2026**
 
 - **(LLMs Pre-Training Scaling Laws) Scaling Laws for Predicting Downstream Performance in LLMs** [[paper](https://arxiv.org/abs/2410.08527)] <br/> **Yangyi Chen**, Binxuan Huang, Yifan Gao, Zhengyang Wang, Jingfeng Yang, Heng Ji <br/> **TMLR 2025**
 
