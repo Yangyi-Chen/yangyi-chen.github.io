@@ -22,6 +22,9 @@ layout: default
 # Conference & Journal Paper & Technical Report
 
 ## 2026
+
+- **Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning** [[paper](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf)] <br/> **Contribute to SWE-Agnets RL** <br/> **Technical Report**
+
 - **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** [[paper](https://arxiv.org/pdf/2512.13607)] <br/> Boxin Wang<sup>\*</sup>, Chankyu Lee<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Sheng-Chieh Lin<sup>\*</sup>, Wenliang Dai<sup>\*</sup>, Yang Chen<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> (ordered alphabetically by first name with equal technical contribution<sup>\*</sup>) <br/> **Technical Report**
 
 - **Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/> **TMLR**
