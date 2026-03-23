@@ -22,7 +22,7 @@ layout: default
 -->
 
 
-**Contact: yangyic@NVIDIA.com**
+**Contact: yangyic@NVIDIA.com / yangyichen6666@gmail.com**
 
 **I'm a research scientist at NVIDIA, where I conduct research and develop infrastructure for LLMs post-training and LLM-based coding agents. I received my CS Ph.D. in UIUC (Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)).**
 
