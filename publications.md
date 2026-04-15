@@ -25,7 +25,7 @@ layout: default
 
 - **Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation** [[paper](https://arxiv.org/abs/2603.19220)] <br/> Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Yang Chen<sup>\*</sup>,  Wenliang Dai<sup>\*</sup>, Boxin Wang<sup>\*</sup>, Chankyu Lee, Sheng-Chieh Lin, **Yangyi Chen**, Dongfu Jiang, Jiafan He, Renjie Pi, Grace Lam, Nayeon Lee, Alexander Bukharin, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> <br/> **Technical Report**
 
-- **Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning** [[paper](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf)] <br/> **Contribute to SWE-Agents RL** <br/> **Technical Report**
+- **Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning** [[paper](https://arxiv.org/abs/2604.12374)] <br/> **Contribute to SWE-Agents RL** <br/> **Technical Report**
 
 - **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** [[paper](https://arxiv.org/pdf/2512.13607)] <br/> Boxin Wang<sup>\*</sup>, Chankyu Lee<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Sheng-Chieh Lin<sup>\*</sup>, Wenliang Dai<sup>\*</sup>, Yang Chen<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> (ordered alphabetically by first name with equal technical contribution<sup>\*</sup>) <br/> **Technical Report**
 
