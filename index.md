@@ -66,6 +66,8 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 
 **<sup>\*</sup>  indicates equal contribution**
 
+- **Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning** [[paper](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf)] <br/> **Contribute to Agentic Post-Training** <br/> **Technical Report**
+
 - **Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation** [[paper](https://arxiv.org/abs/2603.19220)] <br/> Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Yang Chen<sup>\*</sup>,  Wenliang Dai<sup>\*</sup>, Boxin Wang<sup>\*</sup>, Chankyu Lee, Sheng-Chieh Lin, **Yangyi Chen**, Dongfu Jiang, Jiafan He, Renjie Pi, Grace Lam, Nayeon Lee, Alexander Bukharin, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> <br/> **Technical Report**
 
 
