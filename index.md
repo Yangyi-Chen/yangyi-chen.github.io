@@ -24,7 +24,8 @@ layout: default
 
 **Contact: yangyic@NVIDIA.com / yangyichen6666@gmail.com**
 
-**I'm a research scientist at NVIDIA, where I conduct research and develop infrastructure for LLMs post-training and LLM-based coding agents. I received my CS Ph.D. in UIUC (Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)).**
+**I'm a research scientist at NVIDIA working on agentic coding, with a focus on two problems: long-horizon bug fixing in large, complex repositories and long-running, end-to-end software engineering such as ML engineering, building products from scratch, and autoresearch. I received my CS Ph.D. from UIUC (Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html))**
+
 
 
 
@@ -73,7 +74,7 @@ I work on **scalable foundation models**, aiming to establish fundamental approa
 
 - **Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning** [[paper](https://arxiv.org/abs/2604.12374)] <br/> **Contribute to SWE-Agents RL** <br/> **Technical Report**
 
-- **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** [[paper](https://arxiv.org/pdf/2512.13607)] <br/> Boxin Wang<sup>\*</sup>, Chankyu Lee<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Sheng-Chieh Lin<sup>\*</sup>, Wenliang Dai<sup>\*</sup>, Yang Chen<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> (ordered alphabetically by first name with equal technical contribution<sup>\*</sup>) <br/> **Technical Report**
+- **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** [[paper](https://arxiv.org/pdf/2512.13607)] <br/> Boxin Wang<sup>\*</sup>, Chankyu Lee<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Sheng-Chieh Lin<sup>\*</sup>, Wenliang Dai<sup>\*</sup>, Yang Chen<sup>\*</sup>, **Yangyi Chen<sup>\*</sup>**, Zhuolin Yang<sup>\*</sup>, Zihan Liu<sup>\*</sup>, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping<sup>\*</sup> (ordered alphabetically by first name with equal technical contribution<sup>\*</sup>) <br/> **NeurIPS 2026 (Oral)**
 
 
 <!--- **(Vision-Language Pre-Training) Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training** [[paper](https://arxiv.org/abs/2505.08971)] <br/> **Yangyi Chen**, Hao Peng, Tong Zhang, Heng Ji <br/> **TMLR 2026**
