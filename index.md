@@ -24,7 +24,9 @@ layout: default
 
 **Contact: yangyic@NVIDIA.com / yangyichen6666@gmail.com**
 
-**I'm a research scientist at NVIDIA working on agentic coding, with a focus on two problems: long-horizon bug fixing in large, complex repositories and long-running, end-to-end software engineering such as ML engineering, building products from scratch, and autoresearch. I received my CS Ph.D. from UIUC (Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html))**
+**I'm a research scientist at NVIDIA working on agentic coding, with a focus on two problems: long-horizon bug fixing in large, complex repositories and long-running, end-to-end software engineering such as ML engineering, building products from scratch, and autoresearch.**
+
+**I received my CS Ph.D. from UIUC (Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html))**
 
 
 
