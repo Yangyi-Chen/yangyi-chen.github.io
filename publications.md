@@ -19,7 +19,7 @@ layout: default
 
 
 
-# Conference & Journal Paper & Technical Report
+# Publications
 
 ## 2026
 
